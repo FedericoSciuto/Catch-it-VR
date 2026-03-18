@@ -1,4 +1,4 @@
-# 🎮 Catch it! VR: Integrazione tra Realtà Virtuale e Blockchain
+# 🎮 Catch it! VR: integrazione sistemi di realtà virtuale e blockchain
 
 **Catch it! VR** è un progetto di tesi sperimentale che unisce l'immersività della **Virtual Reality** con la sicurezza e la trasparenza della **Blockchain**. Il sistema permette di giocare in un ambiente VR e registrare punteggi e statistiche in modo immutabile su un registro distribuito.
 
