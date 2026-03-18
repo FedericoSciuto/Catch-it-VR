@@ -23,9 +23,9 @@ Il progetto si basa su un'interazione costante tra il visore VR e la blockchain:
 La tesi include un'analisi dettagliata del carico hardware (CPU/GPU) confrontando le modalità **Standalone** e **PCVR**, oltre alla misurazione dei tempi di latenza delle transazioni sulla blockchain (mediamente tra **65-81 ms** dopo il setup iniziale).
 
 ## 📂 Contenuto della Repository
-* `/Scripts/`: Logica di gioco in C# e script di integrazione Web3.
-* `/Contracts/`: Smart Contract in Solidity per la gestione della classifica.
-* `/Migrations/`: Script di deployment per Truffle.
+* `/Blockchain/ScoreRecorder.sol`: Smart Contract in Solidity per la gestione della classifica.
+* `/Blockchain/1_deploy_score_recorder.js`: Script di deployment per Truffle.
+* `/Unity/`: Logica di gioco in C# e script di integrazione Web3.
 
 ---
 *Tesi di Laurea Triennale in Informatica - Università degli Studi di Messina (A.A. 2024-2025).*
